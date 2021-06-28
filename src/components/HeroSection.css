@@ -43,6 +43,9 @@
   .fa-play-circle {
     margin-left: 4px;
   }
+  i ,.play{
+    color: #000;
+  }
   
   @media screen and (max-width: 960px) {
     .hero-container > h1 {
